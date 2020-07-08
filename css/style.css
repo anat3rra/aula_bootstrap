@@ -1,0 +1,24 @@
+
+body{
+    font: 18px Times, sans-serif; color: #182153
+}
+.navbar{
+    background-color: #CEE3F6;
+}
+
+.sobre{
+    background-color: antiquewhite;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.aulasparticulares{
+    background-color: #D3F4E0;
+}
+
+.bg-footer{
+    background-color: antiquewhite;
+}
